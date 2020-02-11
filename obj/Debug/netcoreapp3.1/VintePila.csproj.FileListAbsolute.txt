@@ -1,0 +1,11 @@
+/Volumes/macOS/OneDrive/workspace/C#/VintePila/bin/Debug/netcoreapp3.1/VintePila
+/Volumes/macOS/OneDrive/workspace/C#/VintePila/bin/Debug/netcoreapp3.1/VintePila.deps.json
+/Volumes/macOS/OneDrive/workspace/C#/VintePila/bin/Debug/netcoreapp3.1/VintePila.runtimeconfig.json
+/Volumes/macOS/OneDrive/workspace/C#/VintePila/bin/Debug/netcoreapp3.1/VintePila.runtimeconfig.dev.json
+/Volumes/macOS/OneDrive/workspace/C#/VintePila/bin/Debug/netcoreapp3.1/VintePila.dll
+/Volumes/macOS/OneDrive/workspace/C#/VintePila/bin/Debug/netcoreapp3.1/VintePila.pdb
+/Volumes/macOS/OneDrive/workspace/C#/VintePila/obj/Debug/netcoreapp3.1/VintePila.csprojAssemblyReference.cache
+/Volumes/macOS/OneDrive/workspace/C#/VintePila/obj/Debug/netcoreapp3.1/VintePila.AssemblyInfoInputs.cache
+/Volumes/macOS/OneDrive/workspace/C#/VintePila/obj/Debug/netcoreapp3.1/VintePila.AssemblyInfo.cs
+/Volumes/macOS/OneDrive/workspace/C#/VintePila/obj/Debug/netcoreapp3.1/VintePila.dll
+/Volumes/macOS/OneDrive/workspace/C#/VintePila/obj/Debug/netcoreapp3.1/VintePila.pdb
